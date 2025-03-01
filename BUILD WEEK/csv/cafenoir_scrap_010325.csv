@@ -176,8 +176,8 @@ C1FD1303W022,Tronchetti,tronchetto donna in pelle off white,129.0,64.5,Bianco,Do
 C1FD1302W022,Tronchetti,tronchetto in pelle con elastico off white,129.0,64.5,Bianco,Donna
 C1EF2003,Tronchetti,tronchetti spuntati in pelle traforata con doppio uso,139.0,69.5,Bianco,Donna
 C1DZ6002W012,Tronchetti,tronchetto in pelle scamosciata con laccio strass ghiaccio,149.0,74.5,Bianco,Donna
-C1EG4311W001,Mocassini,mocassini in pelle con morsetto strass bianco,99.9,69.93,Bianco,Donna
 C1HF9004W005,Sandali,sandali in tessuto ricamato su zeppa in corda multi bianco,99.0,49.5,Bianco,Donna
+C1EG4311W001,Mocassini,mocassini in pelle con morsetto strass bianco,99.9,69.93,Bianco,Donna
 C1DN9250,Slip,SLIP ON IN TESSUTO TECNICO LUREX,139.0,69.5,Bianco,Donna
 C1EG4111W001,Mocassini,mocassini donna in pelle con catena bianco,99.9,69.93,Bianco,Donna
 C1DM9123W001,Tronchetti,tronchetto donna con elastico e platform bianco,119.0,59.5,Bianco,Donna
@@ -203,8 +203,8 @@ C1XT1005W036,Sneakers,sneakers donna in pelle e riporto effetto glitter sul tall
 C1DS6002B059,Mocassini,mocassino in pelle scamosciata accessorio smaltato multi jeans,119.9,,Blu,Donna
 C1DL6000B012,Running,running da donna in pelle scamosciata blu,99.9,49.95,Blu,Donna
 C1XB2005B022,Sandali,sandali schiava in pelle metallizzata azzurro,115.0,46.0,Blu,Donna
-C1GE9011B021,Sandali,sandali schiava effetto laminato cobalto,79.9,55.93,Blu,Donna
 C1XK9005B012,Sandali,sandali con mignon imbottiti su zeppa blu,125.0,50.0,Blu,Donna
+C1GE9011B021,Sandali,sandali schiava effetto laminato cobalto,79.9,55.93,Blu,Donna
 C1GE9012B021,Sandali,sandali stampa effetto pitonato con strass cobalto,89.9,62.93,Blu,Donna
 C1NA4090B060,Décolleté,décolleté in nappa blu royal,129.9,90.93,Blu,Donna
 C1DM9132B059,Sneakers,sneakers patchwork multi jeans,79.9,55.93,Blu,Donna
@@ -217,7 +217,7 @@ C1XA9912B012,Sandali,sandali in tessuto su zeppa corda blu,105.0,42.0,Blu,Donna
 C1EG6211B012,Mocassini,mocassini in pelle scamosciata con vaschetta strass blu,99.9,69.93,Blu,Donna
 C1EG6111B012,Mocassini,mocassini in pelle scamosciata con morsetto catena blu,99.9,69.93,Blu,Donna
 C1EG4311B012,Mocassini,mocassini in pelle con morsetto strass blu,99.9,69.93,Blu,Donna
-C1LD5050B012,Tronchetti,tronchetto donna in camoscio con fibbia blu,169.0,84.5,Blu,Donna
+C1LD5050B012,Tronchetti,tronchetto donna in camoscio con fibbia blu,169.0,67.6,Blu,Donna
 C1XV6004B040,Tronchetti,tronchetto donna in pelle scamosciata con elastici ottanio,195.0,78.0,Blu,Donna
 C1HA6001R030,Tronchetti,tronchetto donna in crosta con elastico vinaccia,119.0,59.5,Bordeaux,Donna
 C1EA9004R014,Stringate,derby donna in similpelle spazzolata con borchie bordeaux,99.0,49.5,Bordeaux,Donna
@@ -412,10 +412,10 @@ C1XA9010M017,Sandali,sandali in tessuto con allacciatura schiava su zeppa corda 
 C1HA1002M017,Stivali,stivale donna in pelle tabacco,159.0,79.5,Marrone,Donna
 C1HC1706,Stivali,stivali alti in pelle vintage con borchie e zeppa interna,179.0,71.6,Marrone,Donna
 C1FM2014M017,Stringate,derby donna in pelle tabacco,135.0,67.5,Marrone,Donna
-C1MB9073M011,Sandali,sandali schiava effetto laminato peltro,99.9,69.93,Marrone,Donna
 C1XO6001M092,Zoccoli,zoccoli in pelle scamosciata con morsetto brandy,125.0,50.0,Marrone,Donna
 C1GD9120M021,Infradito,infradito modello ciabatta in sughero e strass degradè multi marrone,69.0,34.5,Marrone,Donna
 C1HB6103M084,Stivali,stivale in pelle scamosciata visone,169.0,84.5,Marrone,Donna
+C1MB9073M011,Sandali,sandali schiava effetto laminato peltro,99.9,69.93,Marrone,Donna
 C1XW6007M025,Tronchetti,tronchetto da donna alla caviglia con pelliccia sintetica cioccolato,99.0,39.6,Marrone,Donna
 C1XR6011,Stivali,stivali alti in pelle scamosciata,169.0,67.6,Marrone,Donna
 C1GD9110M021,Sandali,sandali bassi modello ciabatta in sughero e strass degradè multi marrone,69.0,34.5,Marrone,Donna
@@ -632,7 +632,6 @@ C1GE9010Z012,Sandali,sandali con doppio incrocio effetto laminato con accessorio
 C1XJ1956Z012,Sandali,sandali in pelle mignon con accessorio triangolo strass oro,135.0,54.0,Oro,Donna
 C1GC5003L014,Sandali,sandali in camoscio e stampa maculata con accessorio strass multi bronzo,99.9,69.93,Oro,Donna
 C1GC5001L014,Sandali,sandali infradito in camoscio e stampa maculata con accessorio strass multi bronzo,99.9,69.93,Oro,Donna
-C1HN3004L014,Sandali,sandali in pelle con catena multi bronzo,129.0,64.5,Oro,Donna
 C1XO5557L002,Sandali,sandali doppia fascia effetto laminato platino,139.0,,Platino,Donna
 C1XM9533L002,Sandali,"sandali a ""t"" in pelle con accessorio gioiello platino",155.0,,Platino,Donna
 C1XA9104L002,Sandali,sandali con mignons strass su zeppa corda platino,119.0,,Platino,Donna
@@ -675,8 +674,8 @@ C1NB4057M001,Décolleté,décolleté in nappa con incrocio cipria,129.9,90.93,Ro
 C1XP9012M001,Ciabatte,ciabatte due fasce in vernice con fibbia cipria,79.0,31.6,Rosa,Donna
 C1XP9011V014,Ciabatte,ciabatte in vernice con fibbia lilla,79.0,31.6,Rosa,Donna
 C1LC5426R002,Sandali,"sandali modello a ""t"" in camoscio e nappa con accessorio catena rosa",139.9,97.93,Rosa,Donna
-C1GE9011R043,Sandali,sandali schiava effetto laminato pesca,79.9,55.93,Rosa,Donna
 C1NA4095M001,Décolleté,décolleté aperta dietro in camoscio con micro borchie cipria,149.9,104.93,Rosa,Donna
+C1GE9011R043,Sandali,sandali schiava effetto laminato pesca,79.9,55.93,Rosa,Donna
 C1XA9005M001,Sandali,sandali con fasce strass su zeppa corda cipria,115.0,46.0,Rosa,Donna
 C1LF5009M001,Tronchetti,tronchetto in camoscio asimmetrico aperto spuntato cipria,159.9,111.93,Rosa,Donna
 C1NA4092M001,Décolleté,décolleté aperta dietro in nappa cipria,129.9,90.93,Rosa,Donna
